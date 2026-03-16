@@ -1,0 +1,33 @@
+<p align="center">
+  <a href="#">
+    <img width="30%" height="auto" src="images/Programmer-pana.png" alt="Programador Ilustración"/>
+  </a>
+</p>
+
+<h1 align="center">
+Hola soy Benjamin Villanueva 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fragancias&size=25&pause=1000&color=00227D&center=true&random=true&width=435&lines=T%C3%A9cnico+en+An%C3%A1lisis+de+Sistemas" alt="Typing SVG"/>
+</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@benjaDV234" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+  <a href="https://www.linkedin.com/in/benjamin-villanueva-627629267/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href = "#" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</p>
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b></b> Sobre mí</h2>
+
+
+<p>
+Soy Técnico en Análisis de Sistemas con interés en desarrollo web y backend.
+Me gusta aprender nuevas tecnologías y desarrollar proyectos que mejoren mis habilidades como programador.
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
