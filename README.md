@@ -56,7 +56,7 @@ Me gusta aprender nuevas tecnologías y desarrollar proyectos que mejoren mis ha
       </td>
       <td align="center">
         <a href="https://github.com/Benjaback/Portfolio.git">
-          <img src="images/image.png" width="450" alt="Proyecto Alma Canina" />
+          <img src="images\portfolio.png" width="450" alt="Portfolio" />
         </a>
         <br />
         <p>portfolio</p>
