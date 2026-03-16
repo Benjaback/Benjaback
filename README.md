@@ -39,27 +39,29 @@ Me gusta aprender nuevas tecnologías y desarrollar proyectos que mejoren mis ha
         <br />
         <p>Almacanina</p>
         <p>
-          <a href="https://github.com/Benjaback/AlmacaninaMobile.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/Benjaback/Almacanina.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
         </p>
       </td>
-      <td align="center">
+      <td align="center" valign="top"> 
         <a href="https://github.com/Benjaback/AlmacaninaMobile.git">
-          <img src="images/image.png" width="450" alt="Proyecto Alma Canina" />
+          <img src="images/WhatsApp Image 2026-03-16 at 18.31.18.jpeg" width="160" alt="Proyecto Alma Canina mobile" />
         </a>
         <br />
         <p>Alma canina mobile</p>
         <p>
-          <a href="https://github.com/Benjaback/Almacanina.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/Benjaback/AlmacaninaMobile.git" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
         </p>
       </td>
       <td align="center">
-        <a href="https://github.com/Benjaback/AlmacaninaMobile.git">
+        <a href="https://github.com/Benjaback/Portfolio.git">
           <img src="images/image.png" width="450" alt="Proyecto Alma Canina" />
         </a>
         <br />
         <p>portfolio</p>
         <p>
-          <a href="https://github.com/Benjaback/Almacanina.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/Benjaback/Portfolio.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
         </p>
       </td>
     </tr>
